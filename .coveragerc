@@ -1,0 +1,5 @@
+[run]
+source = ./spinit
+omit = ./spinit/__init__.py
+       ./venv/*
+
